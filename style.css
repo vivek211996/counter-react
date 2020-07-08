@@ -1,0 +1,10 @@
+.main{
+    text-align: center;
+    margin: 10px auto;
+    font-size: large;
+}
+.divbox{
+    border-style: double;
+    border:"1px solid black";
+     margin:"10px";
+}
